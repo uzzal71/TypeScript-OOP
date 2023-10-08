@@ -20,3 +20,7 @@ Creating Object-oriented TypeScript Code
 -   Encapsulation
 -   Inheritance
 -   Polymorphism
+
+# Understanding the Role of Classes
+-   Blueprint(Class)
+-   Building(Object)
