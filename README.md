@@ -15,3 +15,5 @@ Creating Object-oriented TypeScript Code
 -   Object Literal
 -   Class
 
+# Principles of Object-Oriented Programming
+-   Abstraction
