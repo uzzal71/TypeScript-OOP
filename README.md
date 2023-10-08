@@ -5,3 +5,12 @@ Creating Object-oriented TypeScript Code
 -   Bank
 -   Bike
 -   Taco
+
+# The Role of Objects
+-   Object
+
+# Key Object Creation Techniques
+-   Constructor
+-   Object.create()
+-   Object Literal
+-   Class
