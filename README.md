@@ -17,3 +17,6 @@ Creating Object-oriented TypeScript Code
 
 # Principles of Object-Oriented Programming
 -   Abstraction
+-   Encapsulation
+-   Inheritance
+-   Polymorphism
