@@ -14,3 +14,4 @@ Creating Object-oriented TypeScript Code
 -   Object.create()
 -   Object Literal
 -   Class
+
