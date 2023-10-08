@@ -42,3 +42,10 @@ class Person {
 -   BankAccount(abstract class)
 -   CheckingAccount
 -   SavingsAccount
+
+# Implementing an Interface
+-   Interface(deposit(), withdrawal())
+-   BankAccount(deposite(), withdrawal())
+-   ATM (deposit(), withdrawal())
+-   CheckingAccount(BankAcount[deposite()] [withdrawal()]) [deposite()] [withdrawal()]
+-   SavingsAccount(BankAcount[deposite()] [withdrawal()]) [deposite()] [withdrawal()]
