@@ -24,3 +24,21 @@ Creating Object-oriented TypeScript Code
 # Understanding the Role of Classes
 -   Blueprint(Class)
 -   Building(Object)
+```
+class Person {
+    constructor(public firstName: string, public lastName: string) { }
+}
+```
+# Automatic Properties
+-   Properties can be defined in a constructor using accessibility modifiers(public/private)
+-   By using automatic property functionality, a property will be generated, and the constructor value will be mapped to it
+
+# Understanding the Role of Inheritance
+-   Automobile (make, model, price)
+-   Car
+-   Truck
+
+# Abstract Classes
+-   BankAccount(abstract class)
+-   CheckingAccount
+-   SavingsAccount
