@@ -49,3 +49,10 @@ class Person {
 -   ATM (deposit(), withdrawal())
 -   CheckingAccount(BankAcount[deposite()] [withdrawal()]) [deposite()] [withdrawal()]
 -   SavingsAccount(BankAcount[deposite()] [withdrawal()]) [deposite()] [withdrawal()]
+
+# Course Overview
+-   Introduction to Object-oriented TypeScript
+-   Classes and Objects
+-   Inheritance and Abstraction
+-   Classes and Interfaces
+-   Putting It All Together
