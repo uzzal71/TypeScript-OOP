@@ -83,3 +83,9 @@ class Person {
 -   Pass state
 -   Group related functionality
 -   Model real-world objects
+
+# Key Object Creation Techniques
+-   Constructor Function
+-   Object Literal
+-   Object.create()
+-   Class
