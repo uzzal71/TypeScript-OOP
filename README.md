@@ -56,3 +56,9 @@ class Person {
 -   Inheritance and Abstraction
 -   Classes and Interfaces
 -   Putting It All Together
+
+# Target Audience
+-   Developers looking to enhance their knowledge of TypeScript and object oriented concepts
+
+# Course Prereqs
+- Prior experience using HTML, javaScript, and TypeScript
