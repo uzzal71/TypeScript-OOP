@@ -64,5 +64,5 @@ class Person {
 - Prior experience using HTML, javaScript, and TypeScript
 
 # Software requirements
-- Nodejs install
+- Nodejs install(https://nodejs.org)
 -   VS Code 
