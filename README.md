@@ -98,3 +98,6 @@ class Person {
 
 # Inheritance
 -   Objects can share functionality from existing objects and create a family hierarchy.
+
+# Polymorphism
+-   Objects exhibit the save behavior but in a different way.
