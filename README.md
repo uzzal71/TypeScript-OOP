@@ -1,4 +1,4 @@
-# TypeScript OOP
+# Course overview
 Creating Object-oriented TypeScript Code
 
 # Object and the Real World
@@ -49,6 +49,8 @@ class Person {
 -   ATM (deposit(), withdrawal())
 -   CheckingAccount(BankAcount[deposite()] [withdrawal()]) [deposite()] [withdrawal()]
 -   SavingsAccount(BankAcount[deposite()] [withdrawal()]) [deposite()] [withdrawal()]
+
+# introduction to Object-oriented Programming in TypeScript
 
 # Course Overview
 -   Introduction to Object-oriented TypeScript
