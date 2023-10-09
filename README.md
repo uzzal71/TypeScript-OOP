@@ -89,3 +89,9 @@ class Person {
 -   Object Literal
 -   Object.create()
 -   Class
+
+# Abstraction
+-   Abstract complex functionality into an object that can be used as the base for other objects.
+
+# Encapsulation
+-   Objects provide public access points that can be used to interact with private members.
