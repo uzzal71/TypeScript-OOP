@@ -95,3 +95,6 @@ class Person {
 
 # Encapsulation
 -   Objects provide public access points that can be used to interact with private members.
+
+# Inheritance
+-   Objects can share functionality from existing objects and create a family hierarchy.
