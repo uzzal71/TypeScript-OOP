@@ -72,3 +72,8 @@ class Person {
 # Source Code Link
 -   https://github.com/uzzal71
 (seed the examples/object-oriented directory)
+
+# Module Overview
+-   The Role of Objects
+-   Object Creation Techniques
+-   Object-oriented Concepts
