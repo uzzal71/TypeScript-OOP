@@ -1,0 +1,31 @@
+{
+  "name": "typescript-oop",
+  "version": "1.0.0",
+  "description": "Creating Object-oriented TypeScript Code",
+  "main": "index.js",
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc --watch",
+    "start": "tsc && concurrently \"tsc -w\" \"lite-server\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/uzzal71/TypeScript-OOP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uzzal71/TypeScript-OOP/issues"
+  },
+  "homepage": "https://github.com/uzzal71/TypeScript-OOP#readme",
+  "dependencies": {
+    "systemjs": "0.20.17"
+  },
+  "devDependencies": {
+    "@types/jquery": "3.3.29",
+    "concurrently": "5.3.0",
+    "lite-server": "2.6.1",
+    "typescript": "4.0.3"
+  }
+}
