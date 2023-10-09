@@ -62,3 +62,7 @@ class Person {
 
 # Course Prereqs
 - Prior experience using HTML, javaScript, and TypeScript
+
+# Software requirements
+- Nodejs install
+-   VS Code 
