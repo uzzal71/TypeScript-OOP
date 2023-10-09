@@ -77,3 +77,9 @@ class Person {
 -   The Role of Objects
 -   Object Creation Techniques
 -   Object-oriented Concepts
+
+# The Role of Objects
+-   Store state
+-   Pass state
+-   Group related functionality
+-   Model real-world objects
