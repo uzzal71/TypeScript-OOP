@@ -65,4 +65,4 @@ class Person {
 
 # Software requirements
 - Nodejs install(https://nodejs.org)
--   VS Code 
+-   VS Code (https://code.visualstudio.com)
