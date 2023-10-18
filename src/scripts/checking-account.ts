@@ -2,6 +2,10 @@ export class CheckingAccount { // field
     private _blance = 0;
     title: string;
 
+    constructor(title: string) {
+        this.title = title;
+    }
+
     get balance() { // get block
         return this._blance;
     }
