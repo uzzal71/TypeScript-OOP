@@ -1,10 +1,8 @@
 export class CheckingAccount { // field
     private _blance = 0;
-    title: string;
+    // title: string;
 
-    constructor(title: string) {
-        this.title = title;
-    }
+    constructor(public title: string) {}
 
     get balance() { // get block
         return this._blance;
