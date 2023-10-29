@@ -3,7 +3,7 @@ import { Renderer } from './scripts/renderer';
 
 class Main {
     checkingAccount: CheckingAccount;
-
+    // define constructor
     constructor(/* private renderer: Renderer */) {
         // Create CheckingAccount instance
         this.checkingAccount = new CheckingAccount("Uzzal Kumar Roy");
